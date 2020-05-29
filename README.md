@@ -1,2 +1,2 @@
-# fullstack-grindr
+# fullstack-passport
 Upload for QA
